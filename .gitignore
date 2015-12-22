@@ -1,0 +1,8 @@
+*.o
+*.o.cmd
+*.ko
+*.ko.cmd
+/8812au.mod.c
+/Module.symvers
+/modules.order
+/.tmp_versions/
